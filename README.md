@@ -21,7 +21,7 @@
 - [文章和新闻](#articles-and-press)
   - [IPFS相关新闻](#articles-independently-hosted-on-ipfs)
 - [讨论](#discussions)
-- [共享](#contribute)
+- [贡献](#contribute)
   - [Want to hack on IPFS?](#want-to-hack-on-ipfs)
 - [License](#license)
 

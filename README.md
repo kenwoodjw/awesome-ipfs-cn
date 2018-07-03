@@ -76,37 +76,37 @@
 )
 - [IPFessay](https://gitlab.com/stavros/IPFessay) - 发布在IPFS上，不被审查的论文.
 - [Hardbin](https://github.com/jes/hardbin) - Hardbin is an encrypted pastebin, with the decryption key passed in the URL fragment
-- [hasteIPFS](https://ipfs.io/ipns/bin.ipfs.ovh/) - IPFS based code bin. (Read only for now)
+- [hasteIPFS](https://ipfs.io/ipns/bin.ipfs.ovh/) - ipfs密码工具（只读）
 - [Gorilla REPL viewer](https://github.com/keorn/ipfs-gorilla-repl) - [example](https://ipfs.io/ipfs/QmRNUauWDvZFkAp1Bw3kAode3jT8aH2vx7LYzbS7H6R3Mg/view.html?path=/ipfs/QmbRdyLXiFWrKc5hW1NbvpUxF9tLovWCPgiz4BDhjD9k3j)
 
-## Tools
+## 工具
 
-* [cachewarmer](https://github.com/BrendanBenshoof/cachewarmer) - Donate ipfs gateways to cache other people's content
-* [git-remote-ipfs](https://github.com/cryptix/git-remote-ipfs) - push/pull repositories from/to IPFS
-* [http2ipfs](https://github.com/jbenet/http2ipfs-web) - This is a simple webtool to add URLs to an IPFS node.
-* [ipcat](https://github.com/noffle/ipcat) - :cat2: Retrieve IPFS object data and send it to stdout.
-* [ipfs-chrome-station](https://github.com/fbaiodias/ipfs-chrome-station) - Chrome extension to redirect ipfs.io traffic to local gateway
-* [ipfs-chrome-extension](https://github.com/dylanPowers/ipfs-chrome-extension) - Chrome extension to redirect ipfs.io traffic to local gateway
-* [ipfs-companion](https://github.com/ipfs/ipfs-companion) - Firefox addon to provide access to IPFS via local gateway
-* [ipfs-gui](https://github.com/marcin212/ipfs-gui) - Windows UI integration and IPFS installer
-* [ipfs-linux-service](https://github.com/dylanPowers/ipfs-linux-service) - IPFS Linux Init Daemon
+* [cachewarmer](https://github.com/BrendanBenshoof/cachewarmer) - 捐赠ipfs,缓存其他人的内容
+* [git-remote-ipfs](https://github.com/cryptix/git-remote-ipfs) - 拉取或推送项目，从ipfs（类似github)
+* [http2ipfs](https://github.com/jbenet/http2ipfs-web) - 简单的web工具，添加url到ipfs
+* [ipcat](https://github.com/noffle/ipcat) - :cat2: 检索IPFS数据并将其发送到stdout。.
+* [ipfs-chrome-station](https://github.com/fbaiodias/ipfs-chrome-station) - Chrome扩展程序将ipfs.io流量重定向到本地
+* [ipfs-chrome-extension](https://github.com/dylanPowers/ipfs-chrome-extension) - Chrome扩展程序将ipfs.io流量重定向到本地
+* [ipfs-companion](https://github.com/ipfs/ipfs-companion) - Firefox插件通过本地网关提供对IPFS的访问
+* [ipfs-gui](https://github.com/marcin212/ipfs-gui) - Windows UI 集成和IPFS安装程序
+* [ipfs-linux-service](https://github.com/dylanPowers/ipfs-linux-service) - IPFS Linux 初始化节点
 * [ipfs-paste](https://github.com/jbenet/ipfs-paste) - Paste stdin and clipboard to IPFS
-* [ipfs-screencap](https://github.com/jbenet/ipfs-screencap) - Capture screenshots, publish them to IPFS, and copy the link to the clipboard.
-* [ipfscrape](https://github.com/victorbjelkholm/ipfscrape) - Scrape a webpage with all assets and put it in IPFS
-* [ipget](https://github.com/ipfs/ipget) - :satellite: wget for IPFS: retrieve files over IPFS and save them locally.
-* [IPRedirect](https://github.com/JayBrown/IPRedirect) - Browser userscript for redirecting IPFS/IPNS addresses to your local gateway. This should work on any browser that hasn’t had an extension written for it yet and has support for userscripts.
-* [ipscend](https://github.com/diasdavid/ipscend) - Tool for hosting web apps and static websites in IPFS
+* [ipfs-screencap](https://github.com/jbenet/ipfs-screencap) - 捕获屏幕截图，将其发布到IPFS，然后将链接复制到剪贴板.
+* [ipfscrape](https://github.com/victorbjelkholm/ipfscrape) - 抓取网页并将其放入IPFS
+* [ipget](https://github.com/ipfs/ipget) - :satellite: wget for IPFS: 通过IPFS检索文件并在本地保存.
+* [IPRedirect](https://github.com/JayBrown/IPRedirect) - 浏览器脚本，用于将IPFS / IPNS地址重定向到本地网关
+* [ipscend](https://github.com/diasdavid/ipscend) -用于在IPFS中托管Web应用程序和静态网站
 * [pinbot](https://github.com/whyrusleeping/pinbot) - Pin content via IRC
-* [ipfs-mount](https://github.com/richardschneider/net-ipfs-mount) - Mount IPFS as a mapped drive on Windows
-* [ipfs-add-from-url](https://github.com/maxlath/ipfs-add-from-url) - Add a file to IPFS from a URL instead of a file path
+* [ipfs-mount](https://github.com/richardschneider/net-ipfs-mount) - 在Windows上将IPFS挂载为驱动器
+* [ipfs-add-from-url](https://github.com/maxlath/ipfs-add-from-url) - 从URL而不是文件路径向IPFS添加文件
 
-## Videos
+## 视频
 
 * [IPFS Alpha - Why we must redistribute the web](https://www.youtube.com/watch?v=skMTdSEaCtA) (YouTube)
 * [Juan Benet at Stanford 2015](https://www.youtube.com/watch?v=HUVmypx9HGI) (YouTube)
 * [Juan Benet at Fullstack Fest 2016](https://www.youtube.com/watch?v=jONZtXMu03w) (YouTube) ([IPFS Mirror](https://ipfs.io/ipfs/QmX8LDhDSYdX3xG6cHFUybXLDSuvo9Lz6wF5NU3UVmJRnB))
 
-## Archives
+## 文章
 
 ## Articles and Press
 
@@ -123,7 +123,7 @@
 * 2015-09-08: [HTTP is obsolete. It's time for the distributed, permanent web](https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html)
 * [Downloading nodejs versions with nvm/n over IPFS](https://ipfs.io/ipfs/QmTkzDwWqPbnAh5YiV5VwcTLnGdwSNsNTn2aDxdXBFca7D/example#/ipfs/QmUx363UFtgiQqkHHsPK3TSDmwoALDo2hrbMWbcxjH2vFc) (ipfs.io)
 
-## Discussions
+## 论坛
 
 * [CRDTs discussion](https://github.com/ipfs/notes/issues/23)
 
